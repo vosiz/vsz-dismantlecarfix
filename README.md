@@ -14,6 +14,7 @@ See [Roadmap](#roadmap).
 ## Roadmap
 - [x] Dismantle action works on any vehicle
 - [x] Vehicle contents dropped on the ground
-- [ ] Steam Workshop release
+- [x] Steam Workshop release
 ## Setup
-Until the Workshop release, install it manually: copy `Contents/mods/DismantleAnyCarFix` into your `Zomboid/mods` folder and enable `DismantleAnyCarFix` after Dismantle Any Car in the mod list.
+Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3844568710) together with Dismantle Any Car and enable `[VSZ] Dismantle Car Fix` after it in the mod list. On a dedicated server add `3844568710` to `WorkshopItems=` and `DismantleAnyCarFix` after `NepWreckWorkingCars` in `Mods=`.
+Manual install: copy `Contents/mods/DismantleAnyCarFix` into your `Zomboid/mods` folder instead. Don't use both at once.
