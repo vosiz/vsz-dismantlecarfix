@@ -1,4 +1,6 @@
-name=Dismantle Any Car - B42 MP Fix (local)
+name=[VSZ] Dismantle Car Fix
 id=DismantleAnyCarFix
-description=Local patch for Nepenthe's Dismantle Any Car: lets the dismantle action run on any vehicle (not only Burnt/Smashed) on 42.22+, incl. dedicated/hosted MP. Drops trunk/glovebox contents on the ground before the car is removed.
+description=Makes "Dismantle Any Car" work on intact vehicles in Build 42 again and drops the car's contents on the ground before it is removed. Works in singleplayer and multiplayer.
+poster=preview.png
+require=\NepWreckWorkingCars
 versionMin=42.0

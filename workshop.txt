@@ -1,0 +1,28 @@
+version=1
+id=3844568710
+title=[VSZ] Dismantle Car Fix
+description=[h1]Dismantle Car Fix[/h1]
+description=You find a perfectly fine car you want to strip for parts. You have Dismantle Any Car installed, you pick "Dismantle Car", your character puts on the welding mask, grabs the torch... and nothing happens.
+description=
+description=This patch makes the dismantle action work on any vehicle again, and whatever is left in the trunk, glovebox, seats or roof rack ends up on the ground instead of vanishing with the car.
+description=
+description=[h2]What is going on[/h2]
+description=Dismantle Any Car adds the option to every vehicle, but in Build 42.22 the vanilla dismantle action only accepts burnt or smashed wrecks. For any other car it fails right away without a word.
+description=
+description=[h2]What the mod does[/h2]
+description=[list]
+description=[*]Lets the dismantle action keep any vehicle, not only wrecks
+description=[*]Drops the contents of all vehicle containers on the ground before the car is removed
+description=[/list]
+description=
+description=[h2]Notes[/h2]
+description=[list]
+description=[*]Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3428369137]Dismantle Any Car[/url], load this patch after it
+description=[*]Build 42 (tested on 42.22.2), singleplayer and multiplayer
+description=[*]Safe to add to an existing save
+description=[*]A temporary fix until the original mod or the game handles it
+description=[/list]
+description=
+description=Source: [url=https://github.com/vosiz/vsz-dismantlecarfix]GitHub[/url]
+tags=Build 42;Misc;Multiplayer;Vehicles
+visibility=public
